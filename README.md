@@ -1,6 +1,5 @@
-### This is a project accompanying Nginx Crash Course
 
-### Commands used in the tutorial
+### Commands used
 
 ##### start nginx
 `nginx`
@@ -13,9 +12,6 @@
 
 ##### stop nginx
 `nginx -s stop`  
-
-##### print logs
-`tail -f /usr/local/var/log/nginx/access.log`
 
 ##### restart nginx
 `nginx -s reload`
